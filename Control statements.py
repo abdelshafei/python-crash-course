@@ -14,4 +14,4 @@ if condition == True:
 else:
     print("i am not here.")
 
-# the output for the above conditional statement will be "i am not here." since the condition variable is already False  
+# the output for the above conditional statement will be "i am not here." since the condition variable has been changed False  
